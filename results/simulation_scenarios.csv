@@ -1,0 +1,5 @@
+scenario,service_level_%,abandon_rate_%,worst_interval_sl_%
+Plan as forecast,97.3,1.0,91.1
+Plan with 10% fewer agents on phones,89.5,3.5,78.5
+Volume 15% above forecast,87.1,4.2,74.7
+Volume +15% and 10% of agents absent,69.6,9.2,46.2

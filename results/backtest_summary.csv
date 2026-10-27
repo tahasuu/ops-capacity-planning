@@ -1,0 +1,5 @@
+model,MAPE_%,WAPE_%,bias_%
+Linear regression,6.77,6.59,-0.77
+SARIMAX,8.39,8.28,1.2
+Holt-Winters,9.69,10.03,-1.73
+Seasonal naive,13.56,13.05,-1.25
